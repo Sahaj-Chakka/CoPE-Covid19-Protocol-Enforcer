@@ -1,0 +1,16 @@
+# Large ML model files — download separately (see README)
+*.weights
+*.caffemodel
+*.model
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
